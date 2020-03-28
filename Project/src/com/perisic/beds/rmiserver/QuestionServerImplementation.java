@@ -31,7 +31,7 @@ extends UnicastRemoteObject implements RemoteQuestions{
 		String[] answers1 = {"18-24", "25-34", "35-40" }; 
 		String[] answers2 = {"FullTime", "PartTime", "Retired"};
 		String[] answers3 = {"0-20K", "20-50K", "50K-100K" };
-		String[] answers4 = {"Colombo", "Outside Colombo","sad"};
+		String[] answers4 = {"Colombo", "Outside Colombo","Rather Not Say"};
 		String[] answers5 = {"0-100", "100-500", "More than 500" };
 		String[] answers6 = {"High", "Neutral", "Most of the time Lazy" };
 		String[] answers7 = {"Almost All", "Only a few", "None" };
